@@ -1,0 +1,19 @@
+{
+  "name": "مركز المجد - إدارة الحالات",
+  "short_name": "مركز المجد",
+  "description": "نظام إدارة حالات عيادة الأسنان",
+  "start_url": "مركز المجد-موبايل.html",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "orientation": "portrait",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "icon-192.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    }
+  ]
+}
